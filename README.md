@@ -4,7 +4,7 @@
 * 👀 Me interesa mucho el desarrollo web. El uso de Ruby y Rails me llama bastante también.
 * 🌱 Actualmente me encuentro aprendiendo Vue, mientras refresco Java y C#
 
-##📫 Puedes encontrarme en:
+## 📫 Puedes encontrarme en:
 
 * [LinkedIn: https://www.linkedin.com/in/dev-topherqzl/](https://www.linkedin.com/in/dev-topherqzl/)
 * [GitHub alternativo: https://github.com/TopherLid/](https://github.com/TopherLid/)
