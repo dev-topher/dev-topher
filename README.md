@@ -1,10 +1,10 @@
-# Buen día =D
+# Greetings
 
-* 👋 Soy Christopher Paredes o @dev-topher.
-* 👀 Me interesa mucho el desarrollo web. El uso de Ruby y Rails me llama bastante también.
-* 🌱 Actualmente me encuentro aprendiendo Vue, mientras refresco Java y C#
+* 👋 I'm Christopher Paredes AKA @dev-topher. / Soy Christopher Paredes alias @dev-topher
+* 👀 Currently working as a C# Dev. Also working as freelance Ruby/PHP Dev. Actualmente me encuentro trabajando como desarrollador en C# y desarrollador freelance Ruby/PHP
+* 🌱 Looking up to learn Redis. Aprendiendo el uso de Redis.
 
-## 📫 Puedes encontrarme en:
+## 📫 You can find me in - Puedes encontrarme en:
 
 * [LinkedIn: https://www.linkedin.com/in/dev-topherqzl/](https://www.linkedin.com/in/dev-topherqzl/)
 * [GitHub alternativo: https://github.com/TopherLid/](https://github.com/TopherLid/)
